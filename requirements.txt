@@ -1,0 +1,18 @@
+# Core Modules
+speechrecognition
+pyttsx3
+firecrawl
+qdrant-client
+crewai
+langchain
+gTTS
+transformers
+python-dotenv
+
+# Optional Modules for Enhancements
+streamlit          # For a web interface (optional)
+flask              # For an API backend (optional)
+numpy              # For handling embeddings and vectors
+scipy              # For advanced vector computations
+pydub              # For audio file manipulation
+openai             # If using OpenAI's GPT models
